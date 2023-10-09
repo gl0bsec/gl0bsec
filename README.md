@@ -1,4 +1,4 @@
-## Hi,
+## Hi.
 I am a graduate masters student and researcher interested in international security, and the multi-level governance of the internet, climate change and corporations. Here you'll find programs ive developed to solve problems in open source intelligence (OSINT) and computational social science. In short, I analyse online activity and large datasets to make sense of policy and security issues.
 
 ### 🔭 I’m currently working on:
